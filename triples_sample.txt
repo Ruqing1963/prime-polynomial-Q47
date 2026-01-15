@@ -1,0 +1,4 @@
+# Sample of Prime Triples in Q(n) = n^47 - (n-1)^47
+# Total count: 313
+# Format: starting_n
+# Full list can be generated using scripts/analyze_primes.py

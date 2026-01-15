@@ -1,0 +1,5 @@
+# Prime Quadruplets in Q(n) = n^47 - (n-1)^47
+# Format: starting_n (Q(n), Q(n+1), Q(n+2), Q(n+3) are all prime)
+117309848
+136584738
+218787064
